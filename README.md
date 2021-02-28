@@ -24,21 +24,23 @@ e assim sucetivamente
 Lista numerada:
 1. Lista com numero
 2. Lista com numero
-3. Lista com numero
-   3. Sub-item da lista
-   3. Sub-item da lista
+8. Lista com numero
+    1. Sub-item da lista
+    1. Sub-item da lista
+ 2. Lista com numero 
 
 Lista demaracada:
 *Lista com bolinha
 *Lista com bolinha
 *Lista com bolinha
-   *Lista com bolinha
+    *Lista com bolinha
+*Lista com bolinha
 
 Lista de tarefas:
--[] Tarefa 1
--[x] Tarefa 2 (tarefa feita)
--[] Tarefa 3
--[x] Tarefa 4 (tarefa feita)
+- [] Tarefa 1
+- [x] Tarefa 2 (tarefa feita)
+- [] Tarefa 3
+- [x] Tarefa 4 (tarefa feita)
 
 Imagens:
 ![texto](link da imagem) (é só arrastar a imagem e dps mudar o texto)
