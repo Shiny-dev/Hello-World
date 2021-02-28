@@ -5,3 +5,61 @@
 Esta linha foi colocoda diretamente no site.
 
 Testando *linguagem* **Markdown**.
+
+** Negrito **
+__Negrito__ 
+
+* Itálico *
+_Itálico_
+
+__* negrito e itálico*__
+
+~~texto riscado~~
+
+# Título nivel 1
+## Título nivel 2
+### Título nivel 3
+e assim sucetivamente 
+
+Lista numerada:
+1. Lista com numero
+2. Lista com numero
+3. Lista com numero
+   3. Sub-item da lista
+   3. Sub-item da lista
+
+Lista demaracada:
+*Lista com bolinha
+*Lista com bolinha
+*Lista com bolinha
+   *Lista com bolinha
+
+Lista de tarefas:
+-[] Tarefa 1
+-[x] Tarefa 2 (tarefa feita)
+-[] Tarefa 3
+-[x] Tarefa 4 (tarefa feita)
+
+Imagens:
+![texto](link da imagem) (é só arrastar a imagem e dps mudar o texto)
+
+Link:
+[Texto que vai virar link](Link)
+
+Tabela:
+Num | Nome | Nota 
+---|---|---|
+1| Vinicius | 10
+2| Xamps | 10
+
+Identificar um comando:
+
+"Não entendo o comando `printf` do C
+
+Trechos de programa:
+"Olha meu programa
+```
+comandos
+```
+"
+
