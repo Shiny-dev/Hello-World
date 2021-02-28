@@ -6,13 +6,11 @@ Esta linha foi colocoda diretamente no site.
 
 Testando *linguagem* **Markdown**.
 
-** Negrito **
-__Negrito__ 
+**Negrito**
 
-* Itálico *
-_Itálico_
-
-__* negrito e itálico*__
+*Itálico*
+ 
+__*negrito e itálico*__
 
 ~~texto riscado~~
 
