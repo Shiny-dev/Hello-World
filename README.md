@@ -37,9 +37,9 @@ Lista demaracada:
 *Lista com bolinha
 
 Lista de tarefas:
-- [] Tarefa 1
+- [ ] Tarefa 1
 - [x] Tarefa 2 (tarefa feita)
-- [] Tarefa 3
+- [ ] Tarefa 3
 - [x] Tarefa 4 (tarefa feita)
 
 Imagens:
